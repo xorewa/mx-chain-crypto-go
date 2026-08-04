@@ -1,6 +1,6 @@
 module github.com/multiversx/mx-chain-crypto-go
 
-go 1.26
+go 1.26.2
 
 require (
 	filippo.io/edwards25519 v1.0.0
